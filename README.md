@@ -6,4 +6,4 @@ Demonstration Repository for Team Members
 Some comments would go here.
 
 # Contributing
-Please read the contributing guidelines here: CONTRIBUTING.md
+Please read the contributing guidelines here: [link](CONTRIBUTING.md)
